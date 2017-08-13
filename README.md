@@ -1,2 +1,2 @@
-# blog-posts
+# Blog-Posts
 Repositório para meus Posts!!
