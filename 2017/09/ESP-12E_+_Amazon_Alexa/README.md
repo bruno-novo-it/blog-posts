@@ -1,5 +1,7 @@
-ESP-12E + Amazon Alexa
-=======================
+NodeMCU ESP-12E + Amazon Echo Dot, automatizando a p!#$@ toda!!
+=============================================================================
+
+  Olá, tudo bom? Vamos falar de IoT? 👶
 
 
 O módulo Wifi ESP8266 NodeMCU é uma placa de desenvolvimento que combina o chip ESP8266, uma interface usb-serial e um regulador de tensão 3.3V. A programação pode ser feita usando LUA ou a IDE do Arduino, utilizando a comunicação via cabo micro-usb. Módulo NodeMcu ESP-12E.
@@ -15,3 +17,9 @@ https://www.youtube.com/watch?v=t5QEt-vX5Ng
 A API da Alexa pode ser acessada pelo link abaixo:
 
 http://alexa.amazon.com
+
+
+
+
+Projetos do ESP-12E
+https://howtoesp8266.com/
